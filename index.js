@@ -20,6 +20,6 @@ function sayHiToGrandma(string){
 }
 
 function sayHiToGrandma(string){
-  whisper('hear').toEqual('I can\'t hear you!')
+  whisper('hear') === 'I can\'t hear you!'
   return "YES INDEED!"
 }
