@@ -13,18 +13,18 @@ function logShout(string){
 function logWhisper(string){
   console.log(string.toLowerCase())
 }
-/*
+
 function sayHiToGrandma(string){
-  var deaf = "I can't hear you!"
-  return deaf
+  shout("HELLO")
+  return "YES INDEED!"
 }
 
 function sayHiToGrandma(string){
-  var loud = "YES INDEED!"
-  return loud
+  whisper('hear')
+  return "I can't hear you!"
 }
-*/
+
 function sayHiToGrandma(string){
-  shout("HELLO")
-  return "YES INDEED"
+  "I love you, Grandma."
+  return "I love you, too."
 }
