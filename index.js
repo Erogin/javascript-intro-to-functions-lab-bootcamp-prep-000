@@ -35,3 +35,8 @@ function sayHiToGrandma(string){
   lowercase.toLowerCase() === lowercase
   return "I can't hear you!"
 }
+
+function sayHiToGrandma(string){
+  var love = "I love you, Grandma."
+  return "I love you, too."
+}
