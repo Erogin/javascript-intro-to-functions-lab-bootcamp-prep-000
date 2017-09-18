@@ -18,7 +18,6 @@ function sayHiToGrandma(string) {
 var deaf = "I can't hear you!"
   if (string.toUpperCase)
   return deaf
-  }
 }
 
 function sayHiToGrandma(string){
