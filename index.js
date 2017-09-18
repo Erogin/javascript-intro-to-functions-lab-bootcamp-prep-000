@@ -33,7 +33,7 @@ function sayHiToGrandma(string){
 function sayHiToGrandma(string){
   var lowercase = 'hello!'
   lowercase.toLowerCase() === lowercase
-  return "I love you, too."
+  return "I can't hear you!"
 }
 
 function sayHiToGrandma(string){
