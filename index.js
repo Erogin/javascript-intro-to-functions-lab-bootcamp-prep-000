@@ -18,3 +18,13 @@ function sayHiToGrandma(string) {
   var deaf = "I can't hear you!"
   return deaf
 }
+
+function sayHiToGrandma(string){
+  var loud = "YES INDEED!"
+  return loud
+}
+
+function sayHiToGrandma(string){
+  var love = "I love you, too."
+  return love
+}
