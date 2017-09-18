@@ -16,5 +16,5 @@ function logWhisper(string){
 
 var deaf = "I can't hear you!"
 if (sayHiToGrandma("HELLO").toEqual(uppercase)){
-  return "I can't hear you!"
+  return deaf
 }
