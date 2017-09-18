@@ -21,7 +21,7 @@ function sayHiToGrandma(string) {
 
 function sayHiToGrandma(string){
   var loud = "YES INDEED!"
-  if sayHiToGrandma('HELLO')).toEqual("YES INDEED!"){
+  if (sayHiToGrandma('HELLO')).toEqual("YES INDEED!")){
     return loud
   }
 }
