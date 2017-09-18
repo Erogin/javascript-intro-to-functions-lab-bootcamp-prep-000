@@ -23,8 +23,3 @@ function sayHiToGrandma(string){
   whisper('hear')
   return "I can't hear you!"
 }
-
-function sayHiToGrandma(string){
-  "I love you, Grandma."
-  return "I love you, too."
-}
