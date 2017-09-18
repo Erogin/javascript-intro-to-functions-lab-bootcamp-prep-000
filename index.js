@@ -28,4 +28,3 @@ function sayHiToGrandma(string){
   if(shout().toEqual(string.toLowerCase())){
   return "YES INDEED!"
 }
-
