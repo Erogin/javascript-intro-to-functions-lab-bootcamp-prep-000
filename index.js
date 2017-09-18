@@ -25,18 +25,6 @@ function sayHiToGrandma(string){
 }
 */
 function sayHiToGrandma(string){
-  var uppercase = "YES INDEED!"
-  uppercase.toUpperCase() === uppercase
-  return "I love you, too."
-}
-
-function sayHiToGrandma(string){
-  var lowercase = 'I can\'t hear you!'
-  lowercase.toLowerCase() === lowercase
-  return "I can't hear you!"
-}
-
-function sayHiToGrandma(string){
-  var love = "I love you, Grandma."
-  return "I love you, too."
+  shout("HELLO")
+  return "YES INDEED"
 }
