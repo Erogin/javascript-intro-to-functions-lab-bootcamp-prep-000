@@ -16,10 +16,10 @@ function logWhisper(string){
 
 function sayHiToGrandma(string){
   shout("HELLO")
-  return "YES INDEED!"
+  return "BOOO"
 }
 
 function sayHiToGrandma(string){
-  whisper('hear')
-  return "I can't hear you!"
+  whisper('hear').toEqual('I can\'t hear you!')
+  return "YES INDEED!"
 }
